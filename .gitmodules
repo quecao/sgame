@@ -1,0 +1,9 @@
+[submodule "vendor/asio"]
+	path = vendor/asio
+	url = https://github.com/chriskohlhoff/asio.git
+[submodule "vendor/protobuf"]
+	path = vendor/protobuf
+	url = https://github.com/protocolbuffers/protobuf.git
+[submodule "vendor/protobuf-go"]
+	path = vendor/protobuf-go
+	url = https://github.com/protocolbuffers/protobuf-go.git
